@@ -61,10 +61,9 @@ service:
   - icon: fas fa-print
     name: Gestione Documentale Automatizzata
     content: ''
-  - icon: fas fa-globe-asia
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-chart-bar
+    name: Data Analysis
+    content: ''
   - icon: fas fa-feather
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
