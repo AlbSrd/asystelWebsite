@@ -37,7 +37,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/operator.webp"
   title: INTERFACCIA SU MISURA
   content: Asystel si avvale delle tecnologie più recenti per fornire al committente
     il massimo grado di interoperabilità e personalizzazione <br/> con una interfaccia
