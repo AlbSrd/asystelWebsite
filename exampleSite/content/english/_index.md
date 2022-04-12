@@ -49,9 +49,9 @@ cta:
 funfacts:
   enable: true
   title: I VANTAGGI DEL DIGITALE
-  description: "L’industria 4.0 è da alcuni anni al centro della trasformazione economica
-    in Italia e nel mondo. Illustrata all’interno della legge di Bilancio 2017  si
-    pone l’obiettivo di mobilitare investimenti in ricerca, sviluppo e innovazione con
+  description: "<b>L'industria 4.0</b> è da alcuni anni al centro della trasformazione
+    economica in Italia e nel mondo. Illustrata all’interno della legge di Bilancio
+    2017  si pone l’obiettivo di mobilitare investimenti in ricerca, sviluppo e innovazione con
     focus sulle tecnologie industriali. Questo piano ha poi subito, nel tempo, evoluzioni
     e revisioni: da Piano Industria 4.0 a Piano Impresa 4.0 fino al piano nazionale
     della Transizione 4.0 attualmente in vigore.\n\nI concetti chiave sono Automatizzazione
