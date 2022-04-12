@@ -17,7 +17,7 @@ about:
     La nostra società, con sede a Trevi (PG) e fondata nel 2001, opera nel settore dello sviluppo software con particolare riferimento alla progettazione e realizzazione di sistemi di raccolta, analisi ed elaborazione dati.<br/>
     Asystel nasce con l’obiettivo di fornire alle aziende gli strumenti più adatti per la gestione delle problematiche relative al processo di produzione, fatturazione ed amministrazione delle risorse umane ed energetiche.<br/>
     Il fine ultimo è quello di ottimizzarne la capacità ed efficienza produttiva onde ottenre il massimo sia dal punto di vista commerciale che da quello dell'innovazione con tutti i relativi benefici economici e fiscali
-  image: images/logo.jpg
+  image: "/images/logo.jpeg"
 portfolio:
   enable: true
   bg_image: images/cartiera.webp
