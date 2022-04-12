@@ -64,10 +64,9 @@ service:
   - icon: fas fa-chart-bar
     name: Data Analysis
     content: ''
-  - icon: fas fa-feather
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-euro-sign
+    name: Business Intelligence
+    content: ''
 cta:
   enable: false
 
