@@ -48,14 +48,17 @@ cta:
     link: contact/
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: I VANTAGGI DEL DIGITALE
+  description: |-
+    L’industria 4.0 è da alcuni anni al centro della trasformazione economica in Italia e nel mondo. Illustrata all’interno della legge di Bilancio 2017  si pone l’obiettivo di mobilitare investimenti in ricerca, sviluppo e innovazione con focus sulle tecnologie dell’Industria 4.0. Questo piano ha poi subito evoluzioni e revisioni: da Piano Industria 4.0 a Piano Impresa 4.0 fino al piano nazionale della Transizione 4.0 attualmente in vigore.
+
+    I concetti chiave sono Automatizzazione ed Interconnessione.
+
+    La prima riguarda l’utilizzo dei dati, la potenza di calcolo e la connettività, e si declina in big data, open data, IoT, machine-to-machine e cloud computing per la centralizzazione delle informazioni e la loro conservazione. La seconda è quella degli analytics: una volta raccolti i dati, bisogna ricavarne valore. Oggi solo l’1% dei dati raccolti viene utilizzato dalle imprese, che potrebbero invece ottenere vantaggi a partire dal “machine learning”, dalle macchine cioè che perfezionano la loro resa “imparando” dai dati via via raccolti e analizzati.
   funfact_item:
-  - icon: fas fa-mug-hot
-    name: Cups Of Coffee
-    count: "99"
+  - icon: fas fa-calendar-day
+    name: ''
+    count: "365"
   - icon: fas fa-glasses
     name: Article Written
     count: "45"
