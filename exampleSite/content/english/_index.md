@@ -20,7 +20,7 @@ about:
   image: images/logo.jpg
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
+  bg_image: images/cartiera.webp
   title: I NOSTRI PRODOTTI
   content: "<FONT COLOR=\"black\"> ASYSTEL è in grado di offrire ai propri clienti
     una ampia gamma di prodotti relativi all'implementazione di sistemi automatici
