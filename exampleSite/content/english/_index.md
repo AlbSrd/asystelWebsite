@@ -62,9 +62,9 @@ funfacts:
   - icon: fas fa-phone
     name: ''
     count: "7"
-  - icon: fas fa-keyboard
-    name: Projects Completed
-    count: "125"
+  - icon: fas fa-clock
+    name: ''
+    count: "24"
   - icon: fas fa-clock
     name: Combined Projects
     count: "200"
