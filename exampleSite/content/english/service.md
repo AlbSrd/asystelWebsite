@@ -50,8 +50,7 @@ service:
     content: ''
   - icon: fas fa-headset
     name: Assitenza Online
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: fas fa-database
     name: Database Cloud
     content: ''
