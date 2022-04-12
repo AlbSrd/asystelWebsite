@@ -12,16 +12,12 @@ banner:
     link: project/
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: CHI SIAMO
+  description: DESCRIPTION
+  content: |-
+    La nostra società, con sede a Trevi (PG) e fondata nel 2001, opera nel settore dello sviluppo software con particolare riferimento alla progettazione e realizzazione di sistemi di raccolta, analisi ed elaborazione dati.<br/>
+    Asystel nasce con l’obiettivo di fornire alle aziende gli strumenti più adatti per la gestione delle problematiche relative al processo di produzione, fatturazione ed amministrazione delle risorse umane ed energetiche.<br/>
+    Il fine ultimo è quello di ottimizzarne la capacità ed efficienza produttiva onde ottenre il massimo sia dal punto di vista commerciale che da quello dell'innovazione con tutti i relativi benefici economici e fiscali
   image: images/wrapper-img.png
 portfolio:
   enable: true
