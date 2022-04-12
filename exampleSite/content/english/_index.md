@@ -78,12 +78,12 @@ funfacts:
       Un recente report del MGI afferma che l''automatizzazione ed informatizzazione
       induce un risparmio di tempo che va dal. 64% al 78% a seconda dell''ambito di
       applicazione '
-  - name: Randi Renin
+  - name: SAP Digital Transformation Executive Study
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: |-
+      L'85% dei dirigenti afferma che gli sforzi di digitalizzazione hanno aumentato la quota di mercato fino al 39% rispetto agli altri diretti competitor del settore che non utilizzano sistemi infromatizzati.
+      I dirigenti che investono nella digitalizzazione si aspettano una crescita dei ricavi del 23% in più rispetto a tutti gli altri nei prossimi due anni e prevedono un ROI (ritorno d'investimento) fino al 119%.
   - name: Rose Rio
     image: images/clients/avater-3.jpg
     designation: CEO-Themefisher
