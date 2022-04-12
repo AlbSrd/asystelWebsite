@@ -70,7 +70,7 @@ funfacts:
     count: "144"
   testimonial_slider:
   - name: Report McKinsey Global Institute
-    image: images/clients/avater-1.jpg
+    image: "/images/mckinsey.jpg"
     designation: ''
     content: 'I lavori che si prestano maggiormente ad essere automatizzati sono quelli
       che comportano un’attività fisica (settore manifatturiero e commercio al dettaglio)
@@ -79,13 +79,13 @@ funfacts:
       induce un risparmio di tempo che va dal. 64% al 78% a seconda dell''ambito di
       applicazione '
   - name: SAP Digital Transformation Executive Study
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
+    image: "/images/sap.png"
+    designation: ''
     content: |-
       L'85% dei dirigenti afferma che gli sforzi di digitalizzazione hanno aumentato la quota di mercato fino al 39% rispetto agli altri diretti competitor del settore che non utilizzano sistemi infromatizzati.
       I dirigenti che investono nella digitalizzazione si aspettano una crescita dei ricavi del 23% in più rispetto a tutti gli altri nei prossimi due anni e prevedono un ROI (ritorno d'investimento) fino al 119%.
   - name: 'Fujitsu research '
-    image: images/clients/avater-3.jpg
+    image: "/images/fujitzu.png"
     designation: ''
     content: Fujitsu sostiene che la digitalizzazione in ambito industriale ha portato
       un aumento del 37% della produttività della sua forza lavoro ed un aumento del
