@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/homebraccio.jpeg"
   bg_overlay: false
   title: ''
   content: ''
