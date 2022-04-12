@@ -58,10 +58,9 @@ service:
   - icon: fas fa-project-diagram
     name: Software Design
     content: ''
-  - icon: fas fa-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-print
+    name: Gestione Documentale Automatizzata
+    content: ''
   - icon: fas fa-globe-asia
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
