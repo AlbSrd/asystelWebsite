@@ -59,9 +59,9 @@ funfacts:
   - icon: fas fa-calendar-day
     name: ''
     count: "365"
-  - icon: fas fa-glasses
-    name: Article Written
-    count: "45"
+  - icon: fas fa-phone
+    name: ''
+    count: "7"
   - icon: fas fa-keyboard
     name: Projects Completed
     count: "125"
