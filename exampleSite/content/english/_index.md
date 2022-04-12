@@ -55,13 +55,13 @@ funfacts:
     focus sulle tecnologie industriali. Questo piano ha poi subito, nel tempo, evoluzioni
     e revisioni: da Piano Industria 4.0 a Piano Impresa 4.0 fino al piano nazionale
     della Transizione 4.0 attualmente in vigore.\n\nI concetti chiave sono <b>Automatizzazione</b>
-    ed <b>Interconnessione</b>.\n\nLa prima riguarda l’utilizzo di dati, potenza di
-    calcolo e connettività che si declina nell'implementazione di big data, machine-to-machine
-    communication e cloud computing per la centralizzazione delle informazioni e la
-    loro conservazione. \nLa seconda è quella degli analytics: una volta raccolti
-    i dati bisogna ricavarne valore. Oggi solo l’1% dei dati raccolti viene utilizzato
-    dalle imprese che potrebbero invece trarne grande valore utilizzando metodi di
-    analisi come il Machine Learning e Data Warehousing"
+    ed <b>Interconnessione</b>.\n\nLa prima riguarda <b>l’utilizzo di dati</b>, potenza
+    di calcolo e connettività che si declina nell'implementazione di big data, machine-to-machine
+    communication e cloud computing per la <b>centralizzazione</b> delle informazioni
+    e la loro <b>conservazione</b>. \nLa seconda è quella degli analytics: una volta
+    raccolti i dati bisogna <b>ricavarne valore</b>. Oggi solo l’1% dei dati raccolti
+    viene utilizzato dalle imprese che potrebbero invece trarne grande valore utilizzando
+    metodi di analisi come il Machine Learning e Data Warehousing"
   funfact_item:
   - icon: fas fa-calendar-day
     name: ''
