@@ -69,12 +69,15 @@ funfacts:
     name: ''
     count: "144"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Report McKinsey Global Institute
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: ''
+    content: 'I lavori che si prestano maggiormente ad essere automatizzati sono quelli
+      che comportano un’attività fisica (settore manifatturiero e commercio al dettaglio)
+      e quelli che consistono nella lavorazione dei dati (raccolta e trasformazione).
+      Un recente report del MGI afferma che l''automatizzazione ed informatizzazione
+      induce un risparmio di tempo che va dal. 64% al 78% a seconda dell''ambito di
+      applicazione '
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
