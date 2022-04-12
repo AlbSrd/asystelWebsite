@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: A Digital Marketing <br/> & Design Agency
