@@ -19,7 +19,7 @@ name = "FABBRICA"
 url = "faq/"
 weight = 6
 [[footer]]
-name = "Contact"
+name = "CONTATTI"
 url = "contact/"
 weight = 7
 [[main]]
