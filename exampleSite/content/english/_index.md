@@ -21,30 +21,29 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: I NOSTRI PRODOTTI
+  content: "<FONT COLOR=\"black\"> ASYSTEL è in grado di offrire ai propri clienti
+    una ampia gamma di prodotti relativi all'implementazione di sistemi automatici
+    per la gestione delle fasi di produzione, quali: <br/>  \n\n•  Manufacturing Execution
+    System (MES) in grado di controllare la funzione produttiva di un'azienda<br/>
+    \n•  Gestione del magazzino e relativo dispaccio e versamento<br/> \n•  Tracciabilità
+    automatizzata<br/> \n•  Contabilizzazione energetica e sua ottimizzazione<br/>
+    \n•  Direzione del personale ed accessi<br/> \n•  Interconnessione ed integrazione<br/></FONT>"
   button:
     enable: true
-    label: View Works
+    label: ESPLORA
     link: project/
 service:
   enable: true
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: INTERFACCIA SU MISURA
+  content: Asystel si avvale delle tecnologie più recenti per fornire al committente
+    il massimo grado di interoperabilità e personalizzazione <br/> con una interfaccia
+    risolutiva per innumerevoli esigenze
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact/
 funfacts:
