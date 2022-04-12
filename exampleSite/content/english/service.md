@@ -48,14 +48,13 @@ service:
   - icon: fas fa-robot
     name: Machine Learning
     content: ''
-  - icon: fas fa-image
-    name: App Design
+  - icon: fas fa-headset
+    name: Assitenza Online
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: fas fa-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-database
+    name: Database Cloud
+    content: ''
   - icon: fas fa-headphones-alt
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
