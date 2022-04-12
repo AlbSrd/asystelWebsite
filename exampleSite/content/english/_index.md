@@ -65,9 +65,9 @@ funfacts:
   - icon: fas fa-clock
     name: ''
     count: "24"
-  - icon: fas fa-clock
-    name: Combined Projects
-    count: "200"
+  - icon: fas fa-industry
+    name: ''
+    count: "144"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
