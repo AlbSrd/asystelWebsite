@@ -27,5 +27,4 @@ title = "ASYTRACK PMI"
 >
 > #### La sua modularità garantisce una ideale pertinenza tra il software e le esigenze pratico-applicative.
 >
-> #### Il team di Asystel, è in grado di adattare AsyTrack PMI alle  
-> caratteristiche della tua azienda fino a renderlo un prodotto su misura.
+> #### Il team di Asystel, è in grado di adattare AsyTrack PMI alle caratteristiche della tua azienda fino a renderlo un prodotto su misura.
