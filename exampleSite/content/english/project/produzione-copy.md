@@ -1,8 +1,8 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = "PROCESS MANAGEMENT IMPROVER"
+category = "ENERGY METER"
 description = ""
-image = "/images/asytrack-produzione.png"
+image = "/images/grafanabassatensione.png"
 information = []
 title = "DASHBOARD"
 
