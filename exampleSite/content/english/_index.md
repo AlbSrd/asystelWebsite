@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image: "/images/homebraccio.jpeg"
   bg_overlay: false
   title: ''
