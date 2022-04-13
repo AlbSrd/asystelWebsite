@@ -19,10 +19,6 @@ name = "CONTATTI"
 url = "contact/"
 weight = 7
 [[main]]
-name = "TELEFONO 1234 56789"
-url = ""
-weight = ""
-[[main]]
 name = "Home"
 url = ""
 weight = 1
@@ -30,10 +26,6 @@ weight = 1
 name = "PRODOTTI"
 url = "project/"
 weight = 3
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
 [[main]]
 hasChildren = true
 name = "More"
