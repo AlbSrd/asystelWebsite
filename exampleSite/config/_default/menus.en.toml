@@ -11,10 +11,6 @@ name = "Service"
 url = "service/"
 weight = 4
 [[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 5
-[[footer]]
 name = "FABBRICA"
 url = "faq/"
 weight = 6
@@ -47,11 +43,6 @@ name = "Service"
 parent = "More"
 url = "service/"
 weight = 1
-[[main]]
-name = "Pricing"
-parent = "More"
-url = "pricing/"
-weight = 2
 [[main]]
 name = "FAQ"
 parent = "More"
