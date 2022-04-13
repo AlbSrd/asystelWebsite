@@ -1,5 +1,5 @@
 baseURL = "baseurl"
-disableLanguages = ["fr"]
+disableLanguages = ["it", "de", "fr"]
 disqusShortname = ""
 googleAnalytics = ""
 hasCJKLanguage = false
