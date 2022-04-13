@@ -3,11 +3,15 @@ bg_image = "/images/catena-montaggio.webp"
 category = "PROCESS MANAGEMENT IMPROVER"
 description = ""
 draft = true
-image = "/images/asytrack-commesse.png"
+image = "/images/asytrack-articoli.png"
 information = []
-title = "COMMESSE-(copy)"
+title = "ARTICOLI"
 
 +++
-# COMMESSE
+# ARTICOLI
 
-> #### In questa schermata sono visualizzati gli ordini di lavoro e possiamo trovare l'anagrafica completa della commessa e gli acquirenti della stessa.
+> #### Contiene l'anagrafica degli aricoli, la natura dell'articolo (componente, serializzato, prodotto..) e le spercifiche sulla sua tracciabilità.
+>
+> #### Qualora fosse un prodotto viene visualizzata la distinta base con il ciclo di lavoro completo per produrlo ed i materiali necessari.
+>
+> #### Sono presenti anche il listino di vendita e lo storico acquisti da precedenti fornitori in base alla tipologia dell'articolo stesso. A corredo si può allegare ogni documento che si ritiene opportuno
