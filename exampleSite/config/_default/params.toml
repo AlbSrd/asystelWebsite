@@ -14,6 +14,7 @@ logo_width = "150px"
 navbar_fixed = false
 phone = "+39 0742 381401"
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+social = []
 [baidu]
 analytics_id = ""
 enable = false
@@ -57,15 +58,3 @@ bing = ""
 google = ""
 [widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
