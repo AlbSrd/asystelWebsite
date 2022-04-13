@@ -3,7 +3,7 @@ title: FABBRICA 4.0
 description: ''
 subtitle: Crediti d'imposta per stimolare gli investimenti
 lastmod: 2021-04-13T00:00:00+00:00
-bg_image: images/feature-bg.jpg
+bg_image: images/mise.webp
 layout: faq
 
 ---
