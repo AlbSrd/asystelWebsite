@@ -1,31 +1,15 @@
 +++
-bg_image = "images/feature-bg.jpg"
-category = "Illustration"
-description = "this is meta description"
-draft = true
-image = "images/portfolio/work5.jpg"
-title = "Rio Furniture-(copy)"
-[[information]]
-info = "Jannie Kelonsky"
-label = "Client"
-[[information]]
-info = "Website Redesign"
-label = "What We Did"
-[[information]]
-info = "Photoshop,Illustrator"
-label = "Tools Used"
-[[information]]
-info = "17th March 2014"
-label = "Completed on"
-[[information]]
-info = "HTML5 / PHP / CSS3"
-label = "Skills"
-[[information]]
-info = "Jannie Kelonsky"
-label = "Client"
+bg_image = "/images/catena-montaggio.webp"
+category = "ASYTRACK"
+description = ""
+image = "/images/asytrackpmi.png"
+information = []
+title = "ASYTRACK PMI"
 
 +++
-## Behance Website Redesign
+> #### L’intero impianto normativo del Piano Nazionale Industria 4.0 ruota intorno al concetto di interconnessione, elemento chiave che rende l’azienda un sistema integrato e connesso, in cui macchine, persone e sistemi informativi collaborano fra loro per realizzare prodotti, servizi e ambienti di lavoro più intelligenti.
+>
+> #### Per rendere reale tale concetto risulta fondamentale l’uso di un sistema informatico che colleghi macchine, persone e sistemi tra loro raggiungendo la piena integrazione tra le varie tipologie di informazioni.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
