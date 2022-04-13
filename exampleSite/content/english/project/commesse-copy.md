@@ -2,7 +2,6 @@
 bg_image = "/images/catena-montaggio.webp"
 category = "PROCESS MANAGEMENT IMPROVER"
 description = ""
-draft = true
 image = "/images/asytrack-articoli.png"
 information = []
 title = "ARTICOLI"
