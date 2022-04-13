@@ -1,8 +1,8 @@
 ---
 title: PRODUZIONE
 description: ''
-image: images/portfolio/work2.jpg
-bg_image: images/feature-bg.jpg
+image: "/images/asytrack-produzione.png"
+bg_image: "/images/catena-montaggio.webp"
 category: PROCESS MANAGEMENT IMPROVER
 information: []
 
