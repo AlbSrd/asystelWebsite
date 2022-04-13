@@ -49,6 +49,6 @@ parent = "More"
 url = "faq/"
 weight = 3
 [[main]]
-name = "Contact"
+name = "CONTATTI"
 url = "contact/"
 weight = 6
