@@ -1,7 +1,7 @@
 ---
 title: ORDINI CLIENTE
 description: ''
-image: images/portfolio/work4.jpg
+image: "/images/asytrack-ordini.png"
 bg_image: "/images/catena-montaggio.webp"
 category: PROCESS MANAGEMENT IMPROVER
 information: []
