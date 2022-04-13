@@ -27,10 +27,6 @@ name = "PRODOTTI"
 url = "project/"
 weight = "2"
 [[main]]
-hasChildren = true
-name = "More"
-weight = 5
-[[main]]
 name = "Service"
 parent = "More"
 url = "service/"
@@ -44,3 +40,7 @@ weight = 3
 name = "CONTATTI"
 url = "contact/"
 weight = "4"
+[[main]]
+hasChildren = true
+name = "More"
+weight = "5"
