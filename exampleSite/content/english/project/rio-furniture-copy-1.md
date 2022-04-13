@@ -1,10 +1,12 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = " "
-description = "Fondati sulle basi di AsyTrack offriamo prodotti che si integrano ed espandono le sue possibilità e permettono di gestire, in maniera verticale, specifiche esigenze come controllo qualità, tracciamento prodotti, commerciale ed altro ancora"
-image = ""
+category = "PROCESS MANAGEMENT IMPROVER"
+description = ""
+image = "/images/asytrack-commesse.png"
 information = []
-title = "I NOSTRI PRODOTTI"
+title = "COMMESSE"
 
 +++
-## 
+# COMMESSE
+
+> #### In questa schermata sono visualizzati gli ordini di lavoro e possiamo trovare l'anagrafica completa della commessa e gli acquirenti della stessa.
