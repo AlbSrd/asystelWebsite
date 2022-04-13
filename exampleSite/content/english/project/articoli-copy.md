@@ -3,15 +3,13 @@ bg_image = "/images/catena-montaggio.webp"
 category = "PROCESS MANAGEMENT IMPROVER"
 description = ""
 draft = true
-image = "/images/asytrack-articoli.png"
+image = "/images/asytrack-approvvigionamenti.png"
 information = []
-title = "ARTICOLI-(copy)"
+title = "APPROVVIGIONAMENTI"
 
 +++
-# ARTICOLI
+# APPROVVIGIONAMENTI
 
-> #### Contiene l'anagrafica degli aricoli, la natura dell'articolo (componente, serializzato, prodotto..) e le spercifiche sulla sua tracciabilità.
+> #### Gestisce il tipico caso d'uso, cioè le attività di reperimento dei materiali per la produzione e l'approvvigionamento delle risorse.
 >
-> #### Qualora fosse un prodotto viene visualizzata la distinta base con il ciclo di lavoro completo per produrlo ed i materiali necessari.
->
-> #### Sono presenti anche il listino di vendita e lo storico acquisti da precedenti fornitori in base alla tipologia dell'articolo stesso. A corredo si può allegare ogni documento che si ritiene opportuno
+> #### Segnala, in base alle scorte di magazzino e agli ordini in arrivo, quali materie prime mancano e ne prepara, contestualmente ed automaticamente, una lettera di impegni e rifornimento per i produttori della materia prima.
