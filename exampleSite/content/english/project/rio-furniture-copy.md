@@ -1,8 +1,8 @@
 +++
-bg_image = "images/feature-bg.jpg"
+bg_image = "/images/catena-montaggio.webp"
 category = "PROCESS MANAGEMENT IMPROVER"
 description = ""
-image = "images/portfolio/work6.jpg"
+image = "/images/asytrack-db.png"
 information = []
 title = "MAGAZZINO"
 
