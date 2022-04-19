@@ -27,7 +27,11 @@ pricing:
   - name: x32
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
+<<<<<<< HEAD
     link: ''
+=======
+    link: http://95.110.226.4/UTILITY/PGEXPLORER/pgexplorer_0.0.7_x64_setup.exe
+>>>>>>> parent of 918cc47 (Update from Forestry.io)
     services:
     - TAG 1
     - TAG 2
