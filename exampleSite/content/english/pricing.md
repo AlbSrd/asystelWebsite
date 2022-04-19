@@ -14,17 +14,13 @@ pricing:
     - TAG 1
     - TAG 2
     - TAG 3
-  - name: Premium
-    price: "$199"
-    content: Suitable for small businesses with up to 5 employees
-    link: "#"
+  - name: PG EXPLORER
+    price: version 3.3
+    content: Programma leggero e basilare per la gestione di Database PostgreSQL
+    link: http://95.110.226.4/UTILITY/PGEXPLORER/pgexplorer_0.0.7_x64_setup.exe
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - TAG 1
+    - TAG 2
   - name: Advance
     price: "$299"
     content: Suitable for large businesses with unlimited employees
