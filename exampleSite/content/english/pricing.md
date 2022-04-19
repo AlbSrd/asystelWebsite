@@ -1,14 +1,14 @@
 ---
-title: Our Pricing
-description: this is meta description
+title: DOWNLOAD
+description: 'software download '
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Basic
-    price: "$99"
-    content: Perfect for single freelancers who work by themselves
+  - name: ASYTRACK
+    price: 'version: 1.18'
+    content: asytrack description
     link: "#"
     services:
     - Unlimited agents
