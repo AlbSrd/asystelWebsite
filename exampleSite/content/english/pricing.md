@@ -28,6 +28,6 @@ pricing:
     services:
     - TAG 1
 cta:
-  enable: false
+  enable: true
 
 ---
