@@ -6,10 +6,10 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: 'version: 1.18'
+  - name: x32
     price: ASYTRACK PMI
     content: Il pluripremiato gestionale Aziendale di Asystel
-    link: "#"
+    link: http://95.110.226.4/UTILITY/PGEXPLORER/I386/pgexplorer_latest_x86_setup.exe
     services:
     - TAG 1
     - TAG 2
