@@ -15,7 +15,7 @@ name = "PRODOTTI"
 url = "project/"
 weight = 3
 [[footer]]
-name = "FABBRICA"
+name = "FABBRICA 4.0"
 url = "faq/"
 weight = 6
 [[footer]]
