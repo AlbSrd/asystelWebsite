@@ -1,7 +1,7 @@
 ---
 title: DOWNLOAD
 description: Scarica il nostro software
-bg_image: images/feature-bg.jpg
+bg_image: "/images/software.jpg"
 layout: pricing
 pricing:
   enable: true
@@ -9,7 +9,7 @@ pricing:
   - name: 'version: 1.18'
     price: ASYTRACK PMI
     content: Il pluripremiato gestionale Aziendale di Asystel
-    link: 95.110.226.4/UTILITY/asytrack_dev/SETUP/AsytrackPMI_Setup.exe
+    link: http://95.110.226.4/UTILITY/asytrack_dev/SETUP/AsytrackPMI_Setup.exe
     services:
     - TAG 1
     - TAG 2
@@ -24,7 +24,7 @@ pricing:
   - name: 'version: 43.33'
     price: TecnoBridge DAQ
     content: Software per lagetsione dei dispositivi IOTrack
-    link: 95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
+    link: http://95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
     services:
     - TAG 1
 cta:
