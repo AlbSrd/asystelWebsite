@@ -27,7 +27,7 @@ pricing:
   - name: x32
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
-    link: http://95.110.226.4/UTILITY/PGEXPLORER/I386/pgexplorer_latest_x86_setup.exe
+    link: ''
     services:
     - TAG 1
     - TAG 2
