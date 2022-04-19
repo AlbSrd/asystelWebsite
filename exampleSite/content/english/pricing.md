@@ -11,19 +11,6 @@ pricing:
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
     link: ''
     services: ''
-  - name: last
-    price: UBUNTU
-    content: ''
-    link: https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso
-    services: ''
-  - name: 'version: 1.18'
-    price: ASYTRACK PMI
-    content: Il pluripremiato gestionale Aziendale di Asystel
-    link: ''
-    services:
-    - TAG 1
-    - TAG 2
-    - TAG 3
   - name: x32
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
