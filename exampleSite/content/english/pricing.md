@@ -17,7 +17,7 @@ pricing:
   - name: version 3.3
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
-    link: http://95.110.226.4/UTILITY/PGEXPLORER/pgexplorer_0.0.7_x64_setup.exe
+    link: https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso
     services:
     - TAG 1
     - TAG 2
