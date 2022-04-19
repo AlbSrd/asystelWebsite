@@ -24,7 +24,7 @@ pricing:
   - name: 'version: 43.33'
     price: TecnoBridge DAQ
     content: Software per lagetsione dei dispositivi IOTrack
-    link: http://95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
+    link: 95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
     services:
     - TAG 1
 cta:
