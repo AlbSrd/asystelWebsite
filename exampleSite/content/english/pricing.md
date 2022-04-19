@@ -6,6 +6,11 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
+  - name: last
+    price: UBUNTU
+    content: ''
+    link: https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso
+    services: ''
   - name: 'version: 1.18'
     price: ASYTRACK PMI
     content: Il pluripremiato gestionale Aziendale di Asystel
