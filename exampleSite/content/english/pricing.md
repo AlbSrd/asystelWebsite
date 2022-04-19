@@ -1,6 +1,6 @@
 ---
 title: DOWNLOAD
-description: 'software download '
+description: Scarica il nostro software
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
