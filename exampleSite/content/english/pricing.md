@@ -9,7 +9,7 @@ pricing:
   - name: 'version: 1.18'
     price: ASYTRACK PMI
     content: Il pluripremiato gestionale Aziendale di Asystel
-    link: http://95.110.226.4/UTILITY/asytrack_dev/SETUP/AsytrackPMI_Setup.exe
+    link: "#"
     services:
     - TAG 1
     - TAG 2
