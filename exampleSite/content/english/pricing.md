@@ -8,15 +8,12 @@ pricing:
   pricing_table:
   - name: ASYTRACK
     price: 'version: 1.18'
-    content: asytrack description
+    content: "[asytrack description]"
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - TAG 1
+    - TAG 2
+    - TAG 3
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
