@@ -6,6 +6,11 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
+  - name: x64
+    price: PG EXPLORER
+    content: ''
+    link: http://95.110.226.4/UTILITY/PGEXPLORER/AMD64/pgexplorer_latest_x64_setup.exe
+    services: ''
   - name: last
     price: UBUNTU
     content: ''
