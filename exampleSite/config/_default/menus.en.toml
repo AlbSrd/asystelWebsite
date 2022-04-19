@@ -33,7 +33,6 @@ url = "service/"
 weight = 1
 [[main]]
 name = "FABBRICA 4.0"
-parent = "More"
 url = "faq/"
 weight = 3
 [[main]]
