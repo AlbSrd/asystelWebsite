@@ -1,4 +1,8 @@
 [[footer]]
+name = "TELEFONO 0742 381401"
+url = "contact/"
+weight = "11"
+[[footer]]
 name = "DOWNLOAD"
 url = "pricing/"
 weight = "9"
