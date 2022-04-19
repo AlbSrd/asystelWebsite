@@ -9,7 +9,7 @@ pricing:
   - name: x86
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
-    link: Programma leggero e basilare per la gestione di Database PostgreSQL
+    link: "/images/pgexplorer_latest_x86_setup.exe"
     services:
     - TAG 1
     - TAG 2
