@@ -7,7 +7,7 @@ pricing:
   enable: true
   pricing_table:
   - name: x86
-    price: ASYTRACK PMI
+    price: PG EXPLORER
     content: Il pluripremiato gestionale Aziendale di Asystel
     link: http://95.110.226.4/UTILITY/PGEXPLORER/I386/pgexplorer_latest_x86_setup.exe
     services:
