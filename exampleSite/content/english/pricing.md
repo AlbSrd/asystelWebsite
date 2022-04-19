@@ -14,10 +14,10 @@ pricing:
     - TAG 1
     - TAG 2
     - TAG 3
-  - name: version 3.3
+  - name: x64
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
-    link: http://95.110.226.4/UTILITY/PGEXPLORER/pgexplorer_0.0.7_x64_setup.exe
+    link: http://95.110.226.4/UTILITY/PGEXPLORER/AMD64/pgexplorer_latest_x64_setup.exe
     services:
     - TAG 1
     - TAG 2
