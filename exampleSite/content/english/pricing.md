@@ -7,8 +7,6 @@ pricing:
   enable: true
   pricing_table:
   - name: test
-    price: "33"
-    content: test
     link: tedst
     services: []
   - name: x86
