@@ -14,7 +14,7 @@ pricing:
   - name: setup file
     price: ASYTRACK
     content: L'ultima versiono del nostro software MES
-    link: "/images/pgexplorer_latest_x64_setup.exe"
+    link: "/images/AsytrackPMI_Setup.exe"
     services: []
   - name: 'version: latest'
     price: TecnoBridge DAQ
