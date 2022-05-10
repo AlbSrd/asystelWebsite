@@ -18,7 +18,7 @@ pricing:
     services: []
   - name: 'version: latest'
     price: TecnoBridge DAQ
-    content: Software per lagetsione dei dispositivi IOTrack
+    content: Software per lagestione dei dispositivi IOTrack
     link: "/images/TecnoBridgeDAQ.exe"
     services: []
 cta:
