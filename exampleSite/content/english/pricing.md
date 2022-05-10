@@ -16,7 +16,7 @@ pricing:
     content: L'ultima versiono del nostro software MES
     link: "/images/pgexplorer_latest_x64_setup.exe"
     services: []
-  - name: 'version: 43.33'
+  - name: 'version: latest'
     price: TecnoBridge DAQ
     content: Software per lagetsione dei dispositivi IOTrack
     link: http://95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
