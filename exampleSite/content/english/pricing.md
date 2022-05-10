@@ -8,6 +8,7 @@ pricing:
   pricing_table:
   - name: test
     link: tedst
+    link: unancitriz
     services: []
   - name: x86
     price: PG EXPLORER
