@@ -7,7 +7,7 @@ pricing:
   enable: true
   pricing_table:
   - name: 'version: x64 - x86'
-    price: PG EXPLORER
+    price: PG Explorer
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
     link: "/images/pg-explorer.zip"
     services: []
