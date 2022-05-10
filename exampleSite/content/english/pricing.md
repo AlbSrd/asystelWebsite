@@ -6,10 +6,6 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: test
-    link: tedst
-    link: unancitriz
-    services: []
   - name: x86
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
@@ -29,8 +25,7 @@ pricing:
     price: TecnoBridge DAQ
     content: Software per lagetsione dei dispositivi IOTrack
     link: http://95.110.226.4/UTILITY/IOTRACK/TecnoBridgeDAQ.exe
-    services:
-    - TAG 1
+    services: []
 cta:
   enable: true
 
