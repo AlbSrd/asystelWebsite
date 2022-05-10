@@ -13,7 +13,7 @@ pricing:
     services: []
   - name: setup file
     price: ASYTRACK
-    content: L'ultima versiono del nostro software MES
+    content: L'ultima versione del nostro software MES
     link: "/images/AsytrackPMI_Setup.exe"
     services: []
   - name: 'version: latest'
