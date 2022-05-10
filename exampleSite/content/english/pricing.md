@@ -11,7 +11,7 @@ pricing:
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
     link: "/images/pg-explorer.zip"
     services: []
-  - name: 'version: 21'
+  - name: setup file
     price: ASYTRACK
     content: L'ultima versiono del nostro software MES
     link: "/images/pgexplorer_latest_x64_setup.exe"
