@@ -6,10 +6,10 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: x86
+  - name: 'version: x64 - x86'
     price: PG EXPLORER
     content: Programma leggero e basilare per la gestione di Database PostgreSQL
-    link: "/images/pgexplorer_latest_x86_setup.exe"
+    link: "/images/pg-explorer.zip"
     services: []
   - name: 'version: 21'
     price: ASYTRACK
