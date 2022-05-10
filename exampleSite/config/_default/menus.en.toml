@@ -7,7 +7,7 @@ name = "DOWNLOAD"
 url = "pricing/"
 weight = "9"
 [[footer]]
-name = "About"
+name = ""
 url = "about/"
 weight = 2
 [[footer]]
