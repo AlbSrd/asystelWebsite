@@ -1,5 +1,5 @@
 ---
-title: Service
+title: Informazioni
 description: ''
 bg_image: images/feature-bg.jpg
 layout: service
@@ -11,7 +11,7 @@ about:
     e software di ultima generazione \n\nFounding for the optimisation of the digitalisation
     of internal production and organisational processes through the pruchase of innovative
     equipment and cutting-edge software"
-  image: "/images/documento-porfesr.pdf"
+  image: "/images/documento-porfesr.jpg"
   description: Programma Operativo Regionale Fondo Europeo
 featured_service:
   enable: false
